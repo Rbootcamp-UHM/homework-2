@@ -12,7 +12,7 @@ You can email questions and I'll reply over the weekend as I have time. Otherwis
 Marguerite
 
 # How to download manually via your browser:
-1. Click on the link of interest (e.g., HW2.R)
+1. Click on the link of interest (e.g., HW2.pdf)
 2. Click on the "Download" button on the right just above the screen showing you the contents of the file
 3. Specify the directory where you want to save the file (e.g. Rclass/Homeworks/)
 4. Click save
